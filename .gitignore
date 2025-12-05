@@ -4,7 +4,6 @@ __pycache__/
 *.py[cod]
 backend/venv/
 backend/.env
-
 # Node/React
 frontend/node_modules/
 frontend/build/
